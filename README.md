@@ -1,7 +1,7 @@
 #Fresh Eats Project
 Used HTML5, CSS3 plus flextbox properties for this portfolio demo
 Assignment: to design and code a one page client website for Fresh Eats
-The Goal is to create a well designed easy to read professional website to sell their meal preo service.
+The Goal is to create a well designed easy to read professional website to sell their meal prep service.
 The Design: we are provided a logo. We had to choose a color palate provided by client. Choose one of the available fonts provided, Monsterrat with Merriweather, Fjalla One and Noto Sans, Just montserrat, or just fjalla one
 Needs to be hip, affordable and modern.
 Requirements needs to have sections: How it worx, Choose a plan, View our menu, Login/sign up
